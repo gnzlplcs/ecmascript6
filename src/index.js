@@ -1,3 +1,5 @@
-function newFunction() {
-  console.log('Awesome theme!')
+function newFunction(name='Gonza', age=38, country='PE') {
+  console.log(`${name} ${age} ${country}`)
 }
+
+newFunction();
