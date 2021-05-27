@@ -1,0 +1,11 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "my first ecmaScript6 repo, from Platzi course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Palacios",
+  "license": "ISC"
+}
